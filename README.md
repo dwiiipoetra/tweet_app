@@ -1,1 +1,24 @@
-This is a Social Network Sites application like Twitter built using the Ruby on Rails 5 framework in the Progate platform with features: display timeline, display post and post details, CRUD, post tweet validation, make user and post model, login/logout functionality, like feature and handle passwords securely.
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
